@@ -1,0 +1,15 @@
+.left{
+    width: 39%;
+    font-size: larger;
+    margin-left: 48px;
+
+}
+.main-1{
+    font-size: larger;
+}
+marquee{
+    font-size: 60px;
+    color: white;
+    background-color: black;
+    height: 100px;
+}

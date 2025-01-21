@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.container-fluid{
+    background-color: #ff4c68;
+    height: 700px;
+    color: white;
+    
+}
+.navbar-nav{
+       position: absolute;
+    right: 100px;
+    top: 0;
+}
+.nav-link{
+    margin-top: 3rem;
+    font-size: 19px;
+    margin-right: 5rem;
+    font-weight: bold;
+    
+}
+.navbar-brand{
+    position: absolute;
+    top: 6%;
+    left: 11%;
+    font-weight: bold;
+}
+.section1{
+    height: 500px;
+    width: 100%;
+}
+.row{
+    position: absolute;
+    left:5%;
+    width: 350px;
+    border : 2px solid black;
+}
